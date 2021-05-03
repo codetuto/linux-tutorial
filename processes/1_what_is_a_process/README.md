@@ -1,4 +1,6 @@
-### Process vs Program
+# Process vs Program
+
+<!-- > [Youtube video for this topic](https://www.youtube.com/watch?v=JlpQX1_bofA&t=1095s) -->
 
 - Process: is an instance of an executing program.
 
@@ -22,7 +24,4 @@ a process.
 > A program can originate multiple processes
 
 > Processes may be running the same program
-
-
-### Practice Moment ###
 
